@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://unpkg.com/vue@2.3.3"></script>
+</head>
+<body>
+    <div id="list">
+        <ul v-for="(item,index) in items">
+            <li>{{index}}</li>
+            <li>{{item.no}}</li>
+            <li>{{item.nm}}</li>
+        </ul>
+    </div>
+
+    <script>
+        var model = {
+            "items" : [
+                { "no" : 1 , "nm" : "아이템1"},
+                { "no" : 2 , "nm" : "아이템2"},
+                { "no" : 3 , "nm" : "아이템3"}
+            ]
+        };
+        var List = new Vue({
+            el : "#list",
+            data : model
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+처음시작하는 Vue js 미니프로젝트를 통한 실무 개발 과정
+https://www.udemy.com/course/sc-vuejs/
+
+https://bjpublic.tistory.com/408
+
+https://velog.io/@zerone/Vue-%EC%98%81%ED%99%94-%EA%B2%80%EC%83%89-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
+
+https://velog.io/@luna238/react.js-%EC%B2%AB-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8-%ED%81%B4%EB%A1%A0
+https://velog.io/@rhfovk/JavaScript-%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9Main-Page-mm9t2nb1
+
+Vue CLI 설치 및 Vue 프로젝트 생성 - Vue CLI Install And Creating Vue Project
+https://carrotweb.tistory.com/108
+https://carrotweb.tistory.com/109
+
+https://marshmello.tistory.com/49
+
+https://mycodearchive.tistory.com/category/%F0%9F%92%BB%20my%20code%20archive/%F0%9F%92%8EVue.js
